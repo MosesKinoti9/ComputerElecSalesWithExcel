@@ -1,0 +1,1 @@
+This is a project that focused on analyzing test data on computer electronic sales from stores in the UK using Power Query for Data Cleaning, Data Summarization using Pivot Tables and Data Visualization using Pivot Charts.
